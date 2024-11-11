@@ -1,0 +1,46 @@
+# Metadata
+.metadata/
+# IDE files
+.vscode/
+.idea/
+*.launch
+*.cproject
+*.project
+*.settings/
+
+# STM32CubeIDE/STM32CubeMX generated files
+/.project
+/.settings/
+/.build/
+/.DS_Store
+
+# Makefile build directories
+/build/
+/Debug/
+/Release/
+
+# Binary and object files
+*.bin
+*.hex
+*.elf
+*.map
+*.o
+*.a
+*.d
+
+# Debugging files
+*.gdb
+*.dbg
+*.core
+
+# Other common files
+Thumb.db
+Desktop.ini
+
+# STM32CubeMX generated files
+*.ioc
+
+# Temporary files
+*~
+# Mac OS X system files
+.DS_Store
